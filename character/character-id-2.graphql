@@ -1,3 +1,4 @@
+query {
 character2: character(id: 2) {
     id
     name
@@ -6,3 +7,4 @@ character2: character(id: 2) {
     type
     gender
   }
+}
