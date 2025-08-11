@@ -1,3 +1,4 @@
+query{
 page3: characters(page: 3) {
     results {
       id
@@ -6,3 +7,4 @@ page3: characters(page: 3) {
       image
     }
   }
+}
